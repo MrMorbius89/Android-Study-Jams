@@ -1,4 +1,4 @@
-# MusicWiki
+# Musiciki
 
 ## MVVM Architecture, Kotlin, Android App
 
